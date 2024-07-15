@@ -3,4 +3,7 @@
 <br>
 <b>this is next line</b>
 <b><i>use html basics tags</i></b>
+<hr>
+<hr>
 <h1>hello</h1>
+
